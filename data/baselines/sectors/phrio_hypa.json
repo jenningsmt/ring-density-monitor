@@ -1,0 +1,35 @@
+{
+  "baselines": {
+    "Icy": {
+      "baseline_median": 7.580429337225354e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_phrio_hypa.sqlite ring_baseline medians for sector 'Phrio Hypa'.",
+      "ring_type": "Icy",
+      "source_date": "sector-prep-v1"
+    },
+    "Metal Rich": {
+      "baseline_median": 8.890880786015752e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_phrio_hypa.sqlite ring_baseline medians for sector 'Phrio Hypa'.",
+      "ring_type": "Metal Rich",
+      "source_date": "sector-prep-v1"
+    },
+    "Metallic": {
+      "baseline_median": 9.401047666633236e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_phrio_hypa.sqlite ring_baseline medians for sector 'Phrio Hypa'.",
+      "ring_type": "Metallic",
+      "source_date": "sector-prep-v1"
+    },
+    "Rocky": {
+      "baseline_median": 8.911909529085242e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_phrio_hypa.sqlite ring_baseline medians for sector 'Phrio Hypa'.",
+      "ring_type": "Rocky",
+      "source_date": "sector-prep-v1"
+    }
+  },
+  "library_name": "sector_ring_baselines",
+  "sector_name": "Phrio Hypa",
+  "version": 1
+}

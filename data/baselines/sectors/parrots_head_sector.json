@@ -1,0 +1,35 @@
+{
+  "baselines": {
+    "Icy": {
+      "baseline_median": 8.721775715029828e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_parrots_head_sector.sqlite ring_baseline medians for sector 'Parrot's Head Sector'.",
+      "ring_type": "Icy",
+      "source_date": "sector-prep-v1"
+    },
+    "Metal Rich": {
+      "baseline_median": 9.050098593199907e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_parrots_head_sector.sqlite ring_baseline medians for sector 'Parrot's Head Sector'.",
+      "ring_type": "Metal Rich",
+      "source_date": "sector-prep-v1"
+    },
+    "Metallic": {
+      "baseline_median": 8.94860537195965e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_parrots_head_sector.sqlite ring_baseline medians for sector 'Parrot's Head Sector'.",
+      "ring_type": "Metallic",
+      "source_date": "sector-prep-v1"
+    },
+    "Rocky": {
+      "baseline_median": 9.09420248388144e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_parrots_head_sector.sqlite ring_baseline medians for sector 'Parrot's Head Sector'.",
+      "ring_type": "Rocky",
+      "source_date": "sector-prep-v1"
+    }
+  },
+  "library_name": "sector_ring_baselines",
+  "sector_name": "Parrot's Head Sector",
+  "version": 1
+}

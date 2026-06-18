@@ -1,0 +1,2 @@
+seq,score_version,cohort_name,subregion,run_id,cluster_index,cluster_id,medoid_ring_id,leg_distance_ly,staging_required,size_n,p90_ly,centroid_rho
+1,moi_v1,IcyCore,E-inner,2be414597e16938becdaa9f22459fff68373da68,1,6cbb2130c6c1d0859871e36190668f40db76a2bd,161fe4f84d112ecc5374862e765988ec83069cc7,12076.409749,true,30,3432.844871,25595.562296

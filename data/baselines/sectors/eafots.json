@@ -1,0 +1,35 @@
+{
+  "baselines": {
+    "Icy": {
+      "baseline_median": 8.567576465053113e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_eafots.sqlite ring_baseline medians for sector 'eafots'.",
+      "ring_type": "Icy",
+      "source_date": "sector-prep-v1"
+    },
+    "Metal Rich": {
+      "baseline_median": 8.996271757184101e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_eafots.sqlite ring_baseline medians for sector 'eafots'.",
+      "ring_type": "Metal Rich",
+      "source_date": "sector-prep-v1"
+    },
+    "Metallic": {
+      "baseline_median": 9.155070501860302e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_eafots.sqlite ring_baseline medians for sector 'eafots'.",
+      "ring_type": "Metallic",
+      "source_date": "sector-prep-v1"
+    },
+    "Rocky": {
+      "baseline_median": 8.971675263612778e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_eafots.sqlite ring_baseline medians for sector 'eafots'.",
+      "ring_type": "Rocky",
+      "source_date": "sector-prep-v1"
+    }
+  },
+  "library_name": "sector_ring_baselines",
+  "sector_name": "eafots",
+  "version": 1
+}

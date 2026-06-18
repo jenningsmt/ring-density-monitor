@@ -1,0 +1,35 @@
+{
+  "baselines": {
+    "Icy": {
+      "baseline_median": 8.713608920291098e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_col_285_sector.sqlite ring_baseline medians for sector 'Col 285 Sector'.",
+      "ring_type": "Icy",
+      "source_date": "sector-prep-v1"
+    },
+    "Metal Rich": {
+      "baseline_median": 9.053007948864113e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_col_285_sector.sqlite ring_baseline medians for sector 'Col 285 Sector'.",
+      "ring_type": "Metal Rich",
+      "source_date": "sector-prep-v1"
+    },
+    "Metallic": {
+      "baseline_median": 8.988865519534e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_col_285_sector.sqlite ring_baseline medians for sector 'Col 285 Sector'.",
+      "ring_type": "Metallic",
+      "source_date": "sector-prep-v1"
+    },
+    "Rocky": {
+      "baseline_median": 9.052638191685205e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_col_285_sector.sqlite ring_baseline medians for sector 'Col 285 Sector'.",
+      "ring_type": "Rocky",
+      "source_date": "sector-prep-v1"
+    }
+  },
+  "library_name": "sector_ring_baselines",
+  "sector_name": "Col 285 Sector",
+  "version": 1
+}

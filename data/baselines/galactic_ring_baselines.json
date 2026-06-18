@@ -1,0 +1,34 @@
+{
+  "library_name": "galactic_ring_baselines",
+  "version": 1,
+  "baselines": {
+    "Icy": {
+      "ring_type": "Icy",
+      "baseline_median": 8.59106794350073292e-06,
+      "method": "median surface density",
+      "source_date": "2026-02-12",
+      "provenance_notes": "Extracted from data/ring_hunter_library/rings_master_2026-02-13.sqlite using exact median of non-null rings_raw.surface_density grouped by ring_type."
+    },
+    "Metallic": {
+      "ring_type": "Metallic",
+      "baseline_median": 9.251325540340475e-06,
+      "method": "median surface density",
+      "source_date": "2026-02-12",
+      "provenance_notes": "Extracted from data/ring_hunter_library/rings_master_2026-02-13.sqlite using exact median of non-null rings_raw.surface_density grouped by ring_type."
+    },
+    "Metal Rich": {
+      "ring_type": "Metal Rich",
+      "baseline_median": 8.998798817181079103e-06,
+      "method": "median surface density",
+      "source_date": "2026-02-12",
+      "provenance_notes": "Extracted from data/ring_hunter_library/rings_master_2026-02-13.sqlite using exact median of non-null rings_raw.surface_density grouped by ring_type."
+    },
+    "Rocky": {
+      "ring_type": "Rocky",
+      "baseline_median": 8.975781190398602962e-06,
+      "method": "median surface density",
+      "source_date": "2026-02-12",
+      "provenance_notes": "Extracted from data/ring_hunter_library/rings_master_2026-02-13.sqlite using exact median of non-null rings_raw.surface_density grouped by ring_type."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "cluster_id": "K13_C01",
+    "centroid_x": -8938.147988505747,
+    "centroid_y": -516.8620689655172,
+    "centroid_z": 19403.602909770114,
+    "size": 174
+  },
+  {
+    "cluster_id": "K13_C02",
+    "centroid_x": -666.7324840764331,
+    "centroid_y": -56.835191082802545,
+    "centroid_z": -516.9763136942676,
+    "size": 157
+  },
+  {
+    "cluster_id": "K13_C03",
+    "centroid_x": -5297.319270833334,
+    "centroid_y": -444.0903645833333,
+    "centroid_z": 11768.762760416666,
+    "size": 120
+  },
+  {
+    "cluster_id": "K13_C04",
+    "centroid_x": 48.744988207547166,
+    "centroid_y": 0.9118514150943396,
+    "centroid_z": 5944.920695754717,
+    "size": 106
+  },
+  {
+    "cluster_id": "K13_C05",
+    "centroid_x": -1824.2994047619047,
+    "centroid_y": 307.01994047619047,
+    "centroid_z": 26124.05625,
+    "size": 105
+  },
+  {
+    "cluster_id": "K13_C06",
+    "centroid_x": 4379.076388888889,
+    "centroid_y": -197.133487654321,
+    "centroid_z": 19238.353780864196,
+    "size": 81
+  },
+  {
+    "cluster_id": "K13_C07",
+    "centroid_x": -4324.54375,
+    "centroid_y": -273.3598214285714,
+    "centroid_z": 35753.61026785714,
+    "size": 70
+  },
+  {
+    "cluster_id": "K13_C08",
+    "centroid_x": 5313.909722222223,
+    "centroid_y": 37.777199074074076,
+    "centroid_z": 29543.99247685185,
+    "size": 54
+  },
+  {
+    "cluster_id": "K13_C09",
+    "centroid_x": 10637.53125,
+    "centroid_y": 19.7578125,
+    "centroid_z": 1140.048611111111,
+    "size": 36
+  },
+  {
+    "cluster_id": "K13_C10",
+    "centroid_x": -52.642578125,
+    "centroid_y": -64.583984375,
+    "centroid_z": 53429.58984375,
+    "size": 32
+  },
+  {
+    "cluster_id": "K13_C11",
+    "centroid_x": -20552.935185185186,
+    "centroid_y": 2.2777777777777777,
+    "centroid_z": 33013.1412037037,
+    "size": 27
+  },
+  {
+    "cluster_id": "K13_C12",
+    "centroid_x": -19548.079427083332,
+    "centroid_y": 68.35546875,
+    "centroid_z": 3000.796875,
+    "size": 24
+  },
+  {
+    "cluster_id": "K13_C13",
+    "centroid_x": 24873.566964285714,
+    "centroid_y": -315.86160714285717,
+    "centroid_z": 22926.38839285714,
+    "size": 14
+  }
+]

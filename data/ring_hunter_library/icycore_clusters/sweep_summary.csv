@@ -1,0 +1,5 @@
+threshold,algo_version,moi_metric,n_points,skipped_missing_coords,num_clusters,num_singletons,largest_cluster_size,p50_cluster_size,p90_cluster_size,max_radius_ly,median_radius_ly
+2000,cluster_cc_v1,moi_final,1000,0,115,76,787,1,4,22812.573563,0.000000
+3000,cluster_cc_v1,moi_final,1000,0,51,35,896,1,5,26340.241300,0.000000
+4000,cluster_cc_v1,moi_final,1000,0,33,22,940,1,3,39569.529478,0.000000
+5000,cluster_cc_v1,moi_final,1000,0,19,10,958,1,6,41375.003033,0.000000

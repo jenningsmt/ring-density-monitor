@@ -1,0 +1,17 @@
+{
+  "source_url": "https://edmining.com/mining-location/bhotho/",
+  "source_category": "tritium",
+  "system_name": "Bhotho",
+  "planets": null,
+  "estimated_ly_from_bubble": null,
+  "mining_type": null,
+  "overlap": null,
+  "thanks_to": "S-BURLING15",
+  "tritium_explicit": 0,
+  "tritium_inferred": 1,
+  "parse_warnings": "materials_missing",
+  "material_type_raw": "",
+  "materials": [],
+  "description": "Mining Location Planet(s)\n\nAB2 and AB3 rings",
+  "extracted_at_utc": "2026-02-14T19:16:46.938264+00:00"
+}

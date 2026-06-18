@@ -1,0 +1,86 @@
+[
+  {
+    "cluster_id": "K12_C01",
+    "centroid_x": -8805.889945652174,
+    "centroid_y": -506.2712296195652,
+    "centroid_z": 19585.305367119563,
+    "size": 184
+  },
+  {
+    "cluster_id": "K12_C02",
+    "centroid_x": -364.6185141509434,
+    "centroid_y": -37.47877358490566,
+    "centroid_z": -119.18022798742139,
+    "size": 159
+  },
+  {
+    "cluster_id": "K12_C03",
+    "centroid_x": 947.940185546875,
+    "centroid_y": 347.546875,
+    "centroid_z": 27482.024658203125,
+    "size": 128
+  },
+  {
+    "cluster_id": "K12_C04",
+    "centroid_x": -5087.900049603175,
+    "centroid_y": -427.7889384920635,
+    "centroid_z": 11821.877976190477,
+    "size": 126
+  },
+  {
+    "cluster_id": "K12_C05",
+    "centroid_x": 550.4325,
+    "centroid_y": -17.1975,
+    "centroid_z": 6202.4846875,
+    "size": 100
+  },
+  {
+    "cluster_id": "K12_C06",
+    "centroid_x": 4887.967313218391,
+    "centroid_y": -210.70150862068965,
+    "centroid_z": 20298.2033045977,
+    "size": 87
+  },
+  {
+    "cluster_id": "K12_C07",
+    "centroid_x": -5464.413433908046,
+    "centroid_y": -267.67456896551727,
+    "centroid_z": 34894.738505747126,
+    "size": 87
+  },
+  {
+    "cluster_id": "K12_C08",
+    "centroid_x": -2412.7994791666665,
+    "centroid_y": -66.60329861111111,
+    "centroid_z": 53131.59201388889,
+    "size": 36
+  },
+  {
+    "cluster_id": "K12_C09",
+    "centroid_x": 11151.7158203125,
+    "centroid_y": 4.498046875,
+    "centroid_z": 706.724609375,
+    "size": 32
+  },
+  {
+    "cluster_id": "K12_C10",
+    "centroid_x": -15099.0575,
+    "centroid_y": 25.88,
+    "centroid_z": -2092.21375,
+    "size": 25
+  },
+  {
+    "cluster_id": "K12_C11",
+    "centroid_x": -23941.79910714286,
+    "centroid_y": 95.86904761904762,
+    "centroid_z": 24592.178571428572,
+    "size": 21
+  },
+  {
+    "cluster_id": "K12_C12",
+    "centroid_x": 24382.591666666667,
+    "centroid_y": -366.15,
+    "centroid_z": 23903.2,
+    "size": 15
+  }
+]

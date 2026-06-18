@@ -1,0 +1,35 @@
+{
+  "baselines": {
+    "Icy": {
+      "baseline_median": 8.50770776888966e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_heart_sector.sqlite ring_baseline medians for sector 'heart sector'.",
+      "ring_type": "Icy",
+      "source_date": "sector-prep-v1"
+    },
+    "Metal Rich": {
+      "baseline_median": 9.075714069074016e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_heart_sector.sqlite ring_baseline medians for sector 'heart sector'.",
+      "ring_type": "Metal Rich",
+      "source_date": "sector-prep-v1"
+    },
+    "Metallic": {
+      "baseline_median": 8.965866581358172e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_heart_sector.sqlite ring_baseline medians for sector 'heart sector'.",
+      "ring_type": "Metallic",
+      "source_date": "sector-prep-v1"
+    },
+    "Rocky": {
+      "baseline_median": 9.057575847562183e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_heart_sector.sqlite ring_baseline medians for sector 'heart sector'.",
+      "ring_type": "Rocky",
+      "source_date": "sector-prep-v1"
+    }
+  },
+  "library_name": "sector_ring_baselines",
+  "sector_name": "heart sector",
+  "version": 1
+}

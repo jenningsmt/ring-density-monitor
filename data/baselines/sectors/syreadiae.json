@@ -1,0 +1,35 @@
+{
+  "baselines": {
+    "Icy": {
+      "baseline_median": 7.95215789293036e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_syreadiae.sqlite ring_baseline medians for sector 'Syreadiae'.",
+      "ring_type": "Icy",
+      "source_date": "sector-prep-v1"
+    },
+    "Metal Rich": {
+      "baseline_median": 8.929268986771901e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_syreadiae.sqlite ring_baseline medians for sector 'Syreadiae'.",
+      "ring_type": "Metal Rich",
+      "source_date": "sector-prep-v1"
+    },
+    "Metallic": {
+      "baseline_median": 8.608313418071001e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_syreadiae.sqlite ring_baseline medians for sector 'Syreadiae'.",
+      "ring_type": "Metallic",
+      "source_date": "sector-prep-v1"
+    },
+    "Rocky": {
+      "baseline_median": 8.696159439315194e-06,
+      "method": "median surface density",
+      "provenance_notes": "Derived from sector_syreadiae.sqlite ring_baseline medians for sector 'Syreadiae'.",
+      "ring_type": "Rocky",
+      "source_date": "sector-prep-v1"
+    }
+  },
+  "library_name": "sector_ring_baselines",
+  "sector_name": "Syreadiae",
+  "version": 1
+}
