@@ -14,6 +14,7 @@ import tkinter as tk
 from pathlib import Path
 from typing import Optional
 
+from app.config import resolve_journal_dir
 from app.ring_table import RingTable
 from core.journal_watcher import JournalWatcher, default_journal_dir
 from core.ring_display import RingRow, build_ring_rows, create_scorer
@@ -87,10 +88,14 @@ def main() -> None:
     parser.add_argument(
         "--journal-dir",
         default=None,
-        help="Override the journal directory (defaults to the standard Saved Games location).",
+        help=(
+            "Override the journal directory. Precedence: this flag > "
+            "%%APPDATA%%\\RingDensityMonitor\\config.json's journal_dir > "
+            "the standard Saved Games location."
+        ),
     )
     args = parser.parse_args()
-    run(journal_dir=args.journal_dir)
+    run(journal_dir=resolve_journal_dir(args.journal_dir))
 
 
 if __name__ == "__main__":

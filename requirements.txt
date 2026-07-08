@@ -1,0 +1,5 @@
+# Runtime dependencies for Ring Density Monitor.
+#
+# There are none: the app uses only the Python standard library (tkinter,
+# json, threading, pathlib, ...). This file exists so requirements-dev.txt
+# has a stable base to layer build-time tooling on top of.
