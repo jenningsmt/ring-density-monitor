@@ -207,6 +207,24 @@ data/baselines/    Galactic and sector ring density baselines
 docs/              Ring scoring methodology notes
 ```
 
+## Code signing policy
+
+Free code signing provided by [SignPath.io](https://about.signpath.io),
+certificate by [SignPath Foundation](https://signpath.org).
+
+**Privacy policy:** This program will not transfer any information to other
+networked systems unless specifically requested by the user or the person
+installing or operating it. Ring Density Monitor makes no network calls of
+any kind — it only reads your local Elite Dangerous journal files and an
+optional local `%APPDATA%\RingDensityMonitor\config.json`.
+
+**Team:**
+
+| Role | Member |
+|---|---|
+| Committers / Reviewers | jenningsmt |
+| Approvers | jenningsmt |
+
 ## Legal
 
 MIT License — see [`LICENSE`](LICENSE). Not affiliated with Frontier
