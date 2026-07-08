@@ -9,7 +9,7 @@
 ; attached to a GitHub Release, not committed to the repo.
 
 #define MyAppName "Ring Density Monitor"
-#define MyAppVersion "1.0.0"
+#define MyAppVersion "1.0.1"
 #define MyAppExeName "RingDensityMonitor.exe"
 
 [Setup]
