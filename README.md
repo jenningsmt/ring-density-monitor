@@ -207,6 +207,10 @@ data/baselines/    Galactic and sector ring density baselines
 docs/              Ring scoring methodology notes
 ```
 
+## How this was built
+
+Built with AI-assisted development. I wrote the requirements, data model, and architecture rules, and directed AI coding assistants to implement them. Every change went through my review before release. Design notes are in [`docs/`](docs/).
+
 ## Code signing policy
 
 Free code signing provided by [SignPath.io](https://about.signpath.io),
